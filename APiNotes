@@ -1,0 +1,15 @@
+1. RestAssured  4.5.1 - Api Automation 
+2. TestNg Framework 
+3. Rest works ad BDD - but dosent have Cucumber 
+     Given , When Then 
+4. prityPint of Response 
+5. Json Jway . JsonPath. 2.7.0 
+6. Using this you can find a data point 
+
+-----
+1. Compare the data 
+    1. hardcoding 
+    2. TestData - property file , excel sheet - json
+    3. Read the Json file  - expected value . 
+    4. compare it with the actual value  -Response.
+   
